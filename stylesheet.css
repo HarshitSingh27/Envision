@@ -5,7 +5,7 @@ body {
 	padding: 0;
 }
 p {
-  color:rgba(255, 0, 0, 0.514);
+  color:rgba(162, 0, 255, 0.507);
   text-align: center;
   font-size: 60px;
   margin-top: 0px;
@@ -101,7 +101,7 @@ nav ul li ul li a {
     display: block;
   }
   p {
-    color:rgba(255, 0, 0, 0.514);
+    color:rgba(0, 225, 255, 0.507);
     text-align: center;
     font-size: 160px;
     margin-top: 50px;
@@ -140,7 +140,7 @@ nav ul li ul li a {
     display: block !important;
   }
   p {
-    color:rgba(255, 0, 0, 0.514);
+    color:rgba(0, 225, 255, 0.507);
     text-align: center;
     font-size: 160px;
     margin-top: 50px;
